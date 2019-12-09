@@ -1,0 +1,32 @@
+c:\users\montana\documents\visual studio 2010\Projects\Tutorial6\Tutorial6\bin\Debug\Tutorial6.exe
+c:\users\montana\documents\visual studio 2010\Projects\Tutorial6\Tutorial6\bin\Debug\Tutorial6.pdb
+c:\users\montana\documents\visual studio 2010\Projects\Tutorial6\Tutorial6\bin\Debug\NAudio.dll
+c:\users\montana\documents\visual studio 2010\Projects\Tutorial6\Tutorial6\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\montana\documents\visual studio 2010\Projects\Tutorial6\Tutorial6\obj\x86\Debug\Tutorial6.Form1.resources
+c:\users\montana\documents\visual studio 2010\Projects\Tutorial6\Tutorial6\obj\x86\Debug\Tutorial6.Properties.Resources.resources
+c:\users\montana\documents\visual studio 2010\Projects\Tutorial6\Tutorial6\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\montana\documents\visual studio 2010\Projects\Tutorial6\Tutorial6\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\montana\documents\visual studio 2010\Projects\Tutorial6\Tutorial6\obj\x86\Debug\Tutorial6.exe
+c:\users\montana\documents\visual studio 2010\Projects\Tutorial6\Tutorial6\obj\x86\Debug\Tutorial6.pdb
+C:\Users\bitcamp\Desktop\_연습_힘내_\Tutorial6\Tutorial6\bin\Debug\Tutorial6.exe
+C:\Users\bitcamp\Desktop\_연습_힘내_\Tutorial6\Tutorial6\bin\Debug\Tutorial6.pdb
+C:\Users\bitcamp\Desktop\_연습_힘내_\Tutorial6\Tutorial6\bin\Debug\NAudio.dll
+C:\Users\bitcamp\Desktop\_연습_힘내_\Tutorial6\Tutorial6\obj\x86\Debug\Tutorial6.csprojAssemblyReference.cache
+C:\Users\bitcamp\Desktop\_연습_힘내_\Tutorial6\Tutorial6\obj\x86\Debug\Tutorial6.Form1.resources
+C:\Users\bitcamp\Desktop\_연습_힘내_\Tutorial6\Tutorial6\obj\x86\Debug\Tutorial6.Properties.Resources.resources
+C:\Users\bitcamp\Desktop\_연습_힘내_\Tutorial6\Tutorial6\obj\x86\Debug\Tutorial6.csproj.GenerateResource.cache
+C:\Users\bitcamp\Desktop\_연습_힘내_\Tutorial6\Tutorial6\obj\x86\Debug\Tutorial6.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\_연습_힘내_\Tutorial6\Tutorial6\obj\x86\Debug\Tutorial6.csproj.CopyComplete
+C:\Users\bitcamp\Desktop\_연습_힘내_\Tutorial6\Tutorial6\obj\x86\Debug\Tutorial6.exe
+C:\Users\bitcamp\Desktop\_연습_힘내_\Tutorial6\Tutorial6\obj\x86\Debug\Tutorial6.pdb
+F:\X\학원백업\C#\Tutorial6_1\Tutorial6\bin\Debug\Tutorial6.exe
+F:\X\학원백업\C#\Tutorial6_1\Tutorial6\bin\Debug\Tutorial6.pdb
+F:\X\학원백업\C#\Tutorial6_1\Tutorial6\bin\Debug\NAudio.dll
+F:\X\학원백업\C#\Tutorial6_1\Tutorial6\obj\x86\Debug\Tutorial6.csprojAssemblyReference.cache
+F:\X\학원백업\C#\Tutorial6_1\Tutorial6\obj\x86\Debug\Tutorial6.Form1.resources
+F:\X\학원백업\C#\Tutorial6_1\Tutorial6\obj\x86\Debug\Tutorial6.Properties.Resources.resources
+F:\X\학원백업\C#\Tutorial6_1\Tutorial6\obj\x86\Debug\Tutorial6.csproj.GenerateResource.cache
+F:\X\학원백업\C#\Tutorial6_1\Tutorial6\obj\x86\Debug\Tutorial6.csproj.CoreCompileInputs.cache
+F:\X\학원백업\C#\Tutorial6_1\Tutorial6\obj\x86\Debug\Tutorial6.csproj.CopyComplete
+F:\X\학원백업\C#\Tutorial6_1\Tutorial6\obj\x86\Debug\Tutorial6.exe
+F:\X\학원백업\C#\Tutorial6_1\Tutorial6\obj\x86\Debug\Tutorial6.pdb
